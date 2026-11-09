@@ -2,9 +2,10 @@
 
 ## Identitas
 
-| Nama       | Shifa Alya Dewi |
-| NRP        | 5025241176      |
-| Kelas      | PBKK C          |
+| **Nama** | Shifa Alya Dewi |
+|:---------|:----------------|
+| **NRP**  | 5025241176      |
+| **Kelas**| PBKK C          |
 
 ## Deskripsi Proyek
 
